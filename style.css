@@ -1,0 +1,34 @@
+body{
+  background-color: black;
+  color: orange;
+  text-align: center;
+}
+
+img:hover{
+    box-shadow: 1000px 1000px 1000px 1000px red;
+    border: 10px double red;
+    transition: 3s box-shadow, 0.1s border;
+}
+
+img{
+  width: 600px;
+  border: 5px solid darkred;
+  display: block;
+  margin: 0 auto;
+}
+
+p{
+  font-size: 20px;
+}
+
+.zaraz1{
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+
+.bude1{
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
